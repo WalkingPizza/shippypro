@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shippypro/static/css/main.5f14d33a.chunk.css",
+    "main.css": "/shippypro/static/css/main.370c65e1.chunk.css",
     "main.js": "/shippypro/static/js/main.7438a46c.chunk.js",
     "main.js.map": "/shippypro/static/js/main.7438a46c.chunk.js.map",
     "runtime-main.js": "/shippypro/static/js/runtime-main.9d9739fe.js",
@@ -10,7 +10,7 @@
     "static/js/3.58f073b8.chunk.js": "/shippypro/static/js/3.58f073b8.chunk.js",
     "static/js/3.58f073b8.chunk.js.map": "/shippypro/static/js/3.58f073b8.chunk.js.map",
     "index.html": "/shippypro/index.html",
-    "static/css/main.5f14d33a.chunk.css.map": "/shippypro/static/css/main.5f14d33a.chunk.css.map",
+    "static/css/main.370c65e1.chunk.css.map": "/shippypro/static/css/main.370c65e1.chunk.css.map",
     "static/js/2.97de2947.chunk.js.LICENSE.txt": "/shippypro/static/js/2.97de2947.chunk.js.LICENSE.txt",
     "static/media/shippypro.8f6655a9.svg": "/shippypro/static/media/shippypro.8f6655a9.svg",
     "static/media/travel.6761cf94.jpg": "/shippypro/static/media/travel.6761cf94.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.9d9739fe.js",
     "static/js/2.97de2947.chunk.js",
-    "static/css/main.5f14d33a.chunk.css",
+    "static/css/main.370c65e1.chunk.css",
     "static/js/main.7438a46c.chunk.js"
   ]
 }
