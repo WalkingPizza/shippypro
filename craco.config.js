@@ -10,7 +10,7 @@ module.exports = {
             modifyVars: {
               '@select-item-selected-bg': '#EBF3FA',
               '@primary-color': '#799BF3',
-              '@card-padding-base': '10px'
+              '@card-padding-base': '20px'
             },
             javascriptEnabled: true,
           },
