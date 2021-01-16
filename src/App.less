@@ -1,0 +1,104 @@
+@import '~antd/dist/antd.less';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+html, body {
+  font-family: 'Inter', sans-serif;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #7D9DF5;
+}
+
+#root {
+  padding-bottom: 20px;
+}
+
+.ant-select-dropdown {
+  border-radius: 10px;
+}
+
+.cta, .cta:hover, .cta:active, .cta:focus {
+  border-radius: 20px;
+  height: 50px;
+  border: none;
+  background: #799BF3;
+}
+
+.cta--mobile {
+  display: none;
+}
+
+.cta:hover {
+  transform: scale(1.03);
+}
+
+.logo {
+  width: 100px;
+}
+
+.text--bold {
+  color: #799BF3
+}
+
+.ant-select-item-option-selected {
+  background-color: #EBF3FA;
+}
+
+.ant-timeline-item-last > .ant-timeline-item-content {
+  min-height: 0;
+}
+
+.ant-timeline-item-last {
+  padding-bottom: 0;
+}
+
+.ant-timeline-item {
+  padding-bottom: 10px;
+}
+
+.timeline__item--airline .ant-timeline-item-content {
+  opacity: 0.5;
+}
+
+.navigator__input {
+  width: 40%;
+}
+
+.navigator__button {
+  width: 20%;
+}
+
+@media screen and (max-width: 768px) {
+  #root {
+    padding-top: 20px;
+  }
+
+  .cta--mobile {
+    display: block;
+  }
+
+  .purchase-button {
+    margin-top: 20px;
+  }
+
+  .navigator__input, .navigator__button {
+    width: 100%;
+  }
+
+  .desktop-only {
+    display: none !important;
+  }
+
+  .hero-picture {
+    display: none;
+  }
+}
